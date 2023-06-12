@@ -1,0 +1,15 @@
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorphism\bin\Debug\net6.0\polymorphism.exe
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorphism\bin\Debug\net6.0\polymorphism.deps.json
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorphism\bin\Debug\net6.0\polymorphism.runtimeconfig.json
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorphism\bin\Debug\net6.0\polymorphism.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorphism\bin\Debug\net6.0\polymorphism.pdb
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorphism\obj\Debug\net6.0\polymorphism.csproj.AssemblyReference.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorphism\obj\Debug\net6.0\polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorphism\obj\Debug\net6.0\polymorphism.AssemblyInfoInputs.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorphism\obj\Debug\net6.0\polymorphism.AssemblyInfo.cs
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorphism\obj\Debug\net6.0\polymorphism.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorphism\obj\Debug\net6.0\polymorphism.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorphism\obj\Debug\net6.0\refint\polymorphism.dll
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorphism\obj\Debug\net6.0\polymorphism.pdb
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorphism\obj\Debug\net6.0\polymorphism.genruntimeconfig.cache
+D:\KULIAH\SEM-2\Pemrograman\22.11.4852\polymorphism\obj\Debug\net6.0\ref\polymorphism.dll
